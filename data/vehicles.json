@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Hunter 350",
+        "type": "royalenfield Bike",
+        "price": "2068",
+        "image": "https:\/\/www.royalenfield.com\/content\/dam\/royal-enfield\/india\/accessories\/choose-motorcycle\/new\/hunter-350.jpg"
+    },
+    {
+        "name": "Guerrilla 450",
+        "type": "royalenfield Bike",
+        "price": "2798",
+        "image": "https:\/\/www.royalenfield.com\/content\/dam\/royal-enfield\/motorcycles\/guerrilla-450\/royal_enfield_guerrilla_450_brava_blue.jpg"
+    },
+    {
+        "name": "Shotgun 650",
+        "type": "royalenfield Bike",
+        "price": "4825",
+        "image": "https:\/\/www.royalenfield.com\/content\/dam\/royal-enfield\/india\/accessories\/choose-motorcycle\/shotgun-gma.jpg"
+    }
+]
